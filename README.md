@@ -9,7 +9,7 @@
 ## Installation
 
 ```shell
-npm install express-sanitized
+npm install @nemospeculo/express-sanitized
 ```
 
 ## Usage
